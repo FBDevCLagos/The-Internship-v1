@@ -7,7 +7,7 @@ c)I possess adequate medical insurance for the duration of The Internship v1. De
 
 d)While in The Internship v1, I  will not be considered an official or  a staff member. 
 However, I  understand that I am expected to fulfil my working obligations like any other Intern 
-and will follow the working conditions/objectivs of The Internship v1.
+and will follow the working conditions/objectives of The Internship v1.
 
 e)I  will  provide  notice  to  my  supervisor  or  other  official  designated  by  him/her  of any illness  or  other unavoidable circumstances 
 that might prevent me from working or completing my internship.
@@ -20,13 +20,13 @@ i)Unsatisfactory performance may lead to my termination in the internship at the
 
 j)DevC Lagos  bears  no  responsibility  for  loss  or  damage  to  my  personal  property  that  may  occur  during  my internship.
 
-I undertake the following obligations with respect to the ITC internship programme:
+I undertake the following obligations with respect to the internship programme:
 a)To observe all applicable rules, regulations, instructions, procedures and directives of The Program Managers;
 
 b)To refrain from any conduct that would adversely reflect on DevC Lagos, my fellow interns or on my clan and 
 will  not  engage  in  any  activity  which  is incompatible  with  the  aims  and  objectives  of  DevC Lagos: The Internship v1;  
-with  particular reference to [Guideslines](Clan-Guidelines.md) prohibition of discrimination, harassment, including sexual harassment 
-and abuse of authority,GUildlines special measures for protection from sexual exploitation and sexual abuse 
+with  particular reference to [Guideslines](Clan-Guidelines.md) on prohibition of discrimination, harassment, including sexual harassment 
+and abuse of authority, Guidelines on special measures for protection from sexual exploitation and sexual abuse 
 and Guildlines on detailed disciplinary measures and procedures.
 
 c)To respect the impartiality and independence required of Program Managers and of the respective clan leads and track leads  
@@ -41,6 +41,6 @@ e)To contribute my work prepared during my internship to Open Source;
 f)To  provide  immediate  written  notice of  illness  or  other  circumstances  which  might  prevent  me  from completing the internship;
 
 3.Failure  to  comply  with  the  requirements  under  the Guidelines as well  as  those  contained  in  the Terms,  
-including  any  serious  breach  of  the  duties  and  obligations  may  result  in  my immediate termination in The internship v1 by DevC Lagos.
+including  any  serious  breach  of  the  duties  and  obligations  may  result  in  my immediate termination of my participation in The Internship v1 by DevC Lagos.
 
-4.An internship may be terminated or its period reduced at any time by DevC Lagos if this is deemed to be in the interests of DevC Lagos.
+4.The internship may be terminated or its period reduced at any time by DevC Lagos if this is deemed to be in the interests of DevC Lagos.
