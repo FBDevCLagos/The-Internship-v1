@@ -10,6 +10,15 @@ If you are reading this, you have successfully joined a clan!
 - [FAQs](faq.md)
 - [Clan Guidelines](Clan-Guidelines.md)
 - [Terms](Terms.md)
-- [Attestation](attestation.md)
 
-Kindly add your name to this file as an attestion to abide by the Clan Guidelines and the Terms of The Internship v1
+2. Start this Repo.
+
+3. Fork it
+
+4. Clone it to your machine and follow the instructions in Step 5.
+
+5. Go to the [Attestation](attestation.md) file.
+ - Find your Clan attestation file. 
+ - Add your name to the attestion file following the stated format. 
+
+
