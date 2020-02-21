@@ -1,14 +1,9 @@
-1. I accept the internship, which has been awarded to me by DevC lagos and understand the following:
-
-a)DevC lagos will ONLY pay me per *set terms requisite to earn  during The Internship v1 all other associated expenses, 
-including: the  cost  of  travel,  personal  insurance, data, power  and accommodation, as well as all living expenses,
-will be borne by me
+## I accept the internship, which has been awarded to me by DevC lagos and understand the following:
+a)DevC lagos will ONLY pay me per *set terms requisite to earn  during The Internship v1. All other associated expenses, including: the  cost  of  travel,  personal  insurance, data, power  and accommodation, as well as all living expenses, will be borne by me
 
 b)I am personally responsible for obtaining the necessary resources to build the project decided by My Clan. 
 
-c)I possess adequate medical insurance for the duration of The Internship v1. DevC Lagos is not liable to the cost of medicare
-during my time in The Internship v1. DevC Lagos  accepts  no  responsibility  for  costs  arising  from injury,  illness  or  death  that  has occurred  
-during my internship. 
+c)I possess adequate medical insurance for the duration of The Internship v1. DevC Lagos is not liable to the cost of medicare during my time in The Internship v1. DevC Lagos  accepts  no  responsibility  for  costs  arising  from injury,  illness  or  death  that  has occurred during my internship. 
 
 d)While in The Internship v1, I  will not be considered an official or  a staff member. 
 However, I  understand that I am expected to fulfil my working obligations like any other Intern 
@@ -17,11 +12,11 @@ and will follow the working conditions/objectivs of The Internship v1.
 e)I  will  provide  notice  to  my  supervisor  or  other  official  designated  by  him/her  of any illness  or  other unavoidable circumstances 
 that might prevent me from working or completing my internship.
 
-f)I  will  complete  an  evaluation  questionnaire  at  the  end  of  the internship  and  submit  it  to DevC Lagos
+f)I  will  complete  an  evaluation  questionnaire  at  the  end  of  the internship  and  submit  it  to DevC Lagos.
 
-h)There is no expectancy of employment at the end of the internship.
+h)There is no expectancy of employment at the end of The Internship v1.
 
-i)Unsatisfactory performance may lead to the termination of the internship at the initiative of DevC Lagos, with due notice.
+i)Unsatisfactory performance may lead to my termination in the internship at the initiative of DevC Lagos, with due notice.
 
 j)DevC Lagos  bears  no  responsibility  for  loss  or  damage  to  my  personal  property  that  may  occur  during  my internship.
 
