@@ -11,7 +11,7 @@ If you are reading this, you have successfully joined a clan!
 - [Clan Guidelines](Clan-Guidelines.md)
 - [Terms](Terms.md)
 
-2. Start this Repo.
+2. STAR this Repo.
 
 3. Fork it
 
