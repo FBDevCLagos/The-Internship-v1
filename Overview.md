@@ -15,9 +15,9 @@ If you’re yet to notice, this program has only ONE vision:
 they can show off as part of their portfolio.”
 
 The Internship is totally remote and communication will be in The DevC Lagos Facebook Groups. 
-Participants will be divided into teams and wil have to meet weekly deadlines to ensure that they remain in 
+Participants will be divided into teams and will have to meet weekly deadlines to ensure that they remain in 
 The Internship to the end. Participants who do not meet weekly deadlines will be eliminated from the Internship. 
 
-The Internship rewards work done!
+The Internship rewards, work done!
 
-# There will be a weekly stipend to participants who deliver on tasks first!
+# There will be a weekly stipend to participants who deliver first on a task!
