@@ -1,11 +1,5 @@
-Kindly add your name to this file as an attestion to abide by the Clan Guidelines and the Terms of The Internship v1
-<br/> Follow the format.<br/> 
-___
-Name <br/>
-Track
-___
-Name <br/>
-Track
-___
-Name <br/>
-Track
+<br/>Added my name to the attestation<br/>
+NAME
+<br/> GANIU ADENIYI [GANTECH HQ] <br/>
+<br/> TRACK <br/>
+UI/UX DESIGNS
