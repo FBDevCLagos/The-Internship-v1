@@ -3,10 +3,10 @@ Kindly add your name to this file as an attestion to abide by the Clan Guideline
 <br/> Follow the format.<br/> 
 ___
 Name <br/> Idiaghe Osaigbovo
-Track  front-end
+Track <br/> front-end
 ___
-Name <br/> Idiaghe Osaigbovo
-Track front-end
+Name <br/> Idiaghe Osaigbovo <br/>
+Track <br/> front-end
 ___
-Name <br/> Idiaghe osaigbovo
-Track front-end
+Name <br/> Idiaghe osaigbovo <br/>
+Track <br/> front-end
