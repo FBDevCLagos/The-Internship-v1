@@ -3,10 +3,10 @@ Kindly add your name to this file as an attestion to abide by the Clan Guideline
 <br/> Follow the format.<br/> 
 ___
 Name <br/>
-Track
+Faleye Ifeoluwa
 ___
 Name <br/>
 Track
-___
+Front-end: HTML, CSS & Javascript
 Name <br/>
 Track
