@@ -4,8 +4,8 @@ ___
 Name: Kingsley Victor <br/>
 Track: Back-End (Node & ExpressJs)
 ___
-Name <br/>
-Track
+Name: Oboh Emmanuel <br/>
+Track: Front-End (css & JavaScript)
 ___
 Name <br/>
 Track
