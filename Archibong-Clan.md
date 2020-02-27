@@ -4,8 +4,8 @@ ___
 Name: Kingsley Victor <br/>
 Track: Back-End (Node & ExpressJs)
 ___
-Name <br/>
-Track
+Name: Roheem Olayemi <br/>
+Track: Track: Front-end Web: ReactJS
 ___
 Name <br/>
 Track
