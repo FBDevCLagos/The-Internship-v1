@@ -4,8 +4,8 @@ ___
 Name: Kingsley Victor <br/>
 Track: Back-End (Node & ExpressJs)
 ___
-Name <br/>
-Track
+Name: Ayuba Kamol <br/>
+Track: Front End Mobile (Android)
 ___
 Name <br/>
 Track
