@@ -7,5 +7,5 @@ ___
 Name <br/>
 Track
 ___
-Name <br/>
-Track
+Name: Onyinyechi Queendalin Nduka <br/>
+Track: Frontend (HTML, CSS & JavaScript) 
