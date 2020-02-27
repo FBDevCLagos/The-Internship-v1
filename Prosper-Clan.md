@@ -4,8 +4,8 @@ ___
 Mayowa Oludoyi <br/>
 DevOps
 ___
-Name <br/>
-Track
+Name: Victor Nwoguru <br/>
+Track: Frontend Web: ReactJS
 ___
 Name <br/>
 Track
