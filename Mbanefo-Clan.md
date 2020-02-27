@@ -1,7 +1,5 @@
-<br/>
-  GANIU ADENIYI GanTech <br/>
-   UI/UX Designs
-   +___
-   <br/>
-   Name <br/>
-  Track
+<br/>Added my name to the attestation<br/>
+NAME
+<br/> GANIU ADENIYI [GANTECH HQ] <br/>
+<br/> TRACK <br/>
+UI/UX DESIGNS
