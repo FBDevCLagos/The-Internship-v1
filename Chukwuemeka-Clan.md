@@ -4,14 +4,14 @@ ___
 Name <br/>
 Aderoju Olaitan Habeeb <br/>
 Track<br/>
-Front-End Web [HTML, CSS & JS]
+Front-End Web [HTML, CSS & JS].
 ___
 Name <br/>
 Aderoju Olaitan Habeeb <br/>
 Track<br/>
-Front-End Web [HTML, CSS & JS]
+Front-End Web [HTML, CSS & JS].
 ___
 Name <br/>
 Aderoju Olaitan Habeeb <br/>
 Track<br/>
-Front-End Web [HTML, CSS & JS]
+Front-End Web [HTML, CSS & JS].
