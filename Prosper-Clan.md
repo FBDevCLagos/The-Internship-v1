@@ -2,10 +2,7 @@ Kindly add your name to this file as an attestion to abide by the Clan Guideline
 <br/> Follow the format.<br/> 
 ___
 Name: Nnadi Daniel<br/>
-Track: Backend Api- Node.js and Express
-___
-Name <br/>
-Track
+Track: Backend Api- Node.js and Expressjs
 ___
 Name <br/>
 Track
