@@ -8,10 +8,10 @@ Track Frontend Web: HTML, CSS & JavaScript
 
 ---
 
-Name Aishida Abayomi<br/>
-Track Frontend Web: HTML, CSS & JavaScript
+Name<br/>
+Track
 
 ---
 
-Name Aishida Abayomi<br/>
-Track Frontend Web: HTML, CSS & JavaScript
+Name<br/>
+Track
