@@ -2,8 +2,8 @@
 Kindly add your name to this file as an attestion to abide by the Clan Guidelines and the Terms of The Internship v1
 <br/> Follow the format.<br/> 
 ___
-Name <br/> Adela Adeoye
-Track    NodeJs Backend  
+Name <br/> Adela Adeoye <br/>
+Track <br/>   NodeJs Backend  
 ___
 Name <br/>
 Track
