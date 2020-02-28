@@ -2,10 +2,13 @@ Kindly add your name to this file as an attestion to abide by the Clan Guideline
 <br/> Follow the format.<br/> 
 ___
 Name <br/>
-Track
+Track 
 ___
 Name <br/>
 Track
 ___
 Name <br/>
 Track
+___
+Ayodeji Olagbaiye <br/>
+UI/UX Design
