@@ -7,5 +7,5 @@ _Frontend(React.js)__
 Name <br/>
 Track
 ___
-Name <br/>
-Track
+Jegede Abisola<br/>
+Design
