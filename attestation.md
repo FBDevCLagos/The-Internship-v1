@@ -10,6 +10,15 @@ ___
 Name <br/>
 Track
 
+Name: Eze Henry KC <br/>
+Track: Front-end Web => HTML, CSS and JS
+
+Name: Eze Henry KC <br/>
+Track: Front-end Web => HTML, CSS and JS
+
+Name: Eze Henry KC <br/>
+Track: Front-end Web => HTML, CSS and JS
+
 ## Link to Clan Attestations
 [Archibong Clan](Archibong-Clan.md) <br/>
 [Chukwuemeka Clan](Chukwuemeka-Clan.md) <br/>
