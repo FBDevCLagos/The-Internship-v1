@@ -4,8 +4,8 @@ ___
 Name: Kingsley Victor <br/>
 Track: Back-End (Node & ExpressJs)
 ___
-Name <br/>
-Track
+Name: Emmanuel Udoh <br/>
+Track: Front-end Web (HTML, CSS and JS)
 ___
 Name <br/>
 Track
