@@ -4,8 +4,8 @@ ___
 Name: Kingsley Victor <br/>
 Track: Back-End (Node & ExpressJs)
 ___
-Name <br/>
-Track
+Name: Ibrahim Olayiwola <br/>
+Track: Front-End (Html,CSS & JS)
 ___
 Name <br/>
 Track
