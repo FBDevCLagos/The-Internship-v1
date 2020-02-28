@@ -5,7 +5,9 @@
 If you are reading this, you have successfully joined a clan!
 
 ## Kindly follow the Instructions:
+
 1. Read the following documents
+
 - [Program Overview](Overview.md)
 - [FAQs](faq.md)
 - [Clan Guidelines](Clan-Guidelines.md)
@@ -18,7 +20,6 @@ If you are reading this, you have successfully joined a clan!
 4. Clone it to your machine and follow the instructions in Step 5.
 
 5. Go to the [Attestation](attestation.md) file.
- - Find your Clan attestation file. 
- - Add your name to the attestion file following the stated format. 
 
-
+- Find your Clan attestation file.
+- Add your name to the attestion file following the stated format.
