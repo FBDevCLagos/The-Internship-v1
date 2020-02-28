@@ -10,6 +10,3 @@ ___
 Name <br/>
 Track
 ___
-
-Backend API: NodeJS - ExpressJS
-___
