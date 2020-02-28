@@ -9,6 +9,3 @@ Track
 ___
 Name <br/>
 Track
-
-Victor Ihedioha <br/>
-Design UI/UX
