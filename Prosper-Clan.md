@@ -4,8 +4,8 @@ ___
 Mayowa Oludoyi <br/>
 DevOps
 ___
-Name <br/>
-Track
+Oluwabamise Adebayo Ojo <br/>
+Front-end Web: HTML, CSS and JS
 ___
 Name <br/>
 Track
