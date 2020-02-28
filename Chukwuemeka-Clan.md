@@ -11,5 +11,5 @@ Name <br/>
 Track
 ___
 
-Adeola Ogunsanyaclea <br/>
+Adeola Ogunsanya <br/>
 Front-end Web: HTML, CSS and JS
