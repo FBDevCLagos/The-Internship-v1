@@ -8,8 +8,7 @@ _Frontend(React.js)__
 Name <br/>
 Track
 ___
-Name : Eniayo Odubawo <br/>
-Track : Front-end Mobile: Android
+
  
 
 =======
@@ -22,4 +21,7 @@ Track: Front-end Web: HTML, CSS and JS
 ___
 Name: Abai Daniel Adewunmi <br/>
 Track: Front-end Web: HTML, CSS and JS
+___
+Name : Eniayo Odubawo <br/>
+Track : Front-end Mobile: Android
 >>>>>>> fef1ae9ee81aaa22599431cbfe5f9643b1625fb9
