@@ -9,3 +9,6 @@ Track
 ___
 Name <br/>
 Track
+___
+Jeremiah Bassey, Asuquo <br/>
+Front-end Web: HTML, CSS and JS
