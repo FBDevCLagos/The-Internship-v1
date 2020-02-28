@@ -3,7 +3,7 @@ Kindly add your name to this file as an attestion to abide by the Clan Guideline
 ___
 Balogun Ademola<br/>
 Track Frontend Web: HTML, CSS & JavaScript
-___
+
 Balogun Ademola<br/>
 Track Frontend Web: HTML, CSS & JavaScript
 ___
