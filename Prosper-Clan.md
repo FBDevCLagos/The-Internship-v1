@@ -4,8 +4,8 @@ ___
 Mayowa Oludoyi <br/>
 DevOps
 ___
-Name <br/>
-Track
+Joshua Adesanya <br/>
+Front-end Web: ReactJS
 ___
 Name <br/>
 Track
