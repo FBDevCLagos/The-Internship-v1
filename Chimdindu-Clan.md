@@ -2,8 +2,9 @@ Kindly add your name to this file as an attestion to abide by the Clan Guideline
 <br/> Follow the format.<br/> 
 ___
 Name <br/>
+<br/>David Asaolu<br/>
 Track
-___
+<br>Front-End: HTML, CSS and JS </br>
 Name <br/>
 Track
 ___
