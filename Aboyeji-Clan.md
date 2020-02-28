@@ -1,10 +1,8 @@
 
 Kindly add your name to this file as an attestion to abide by the Clan Guidelines and the Terms of The Internship v1
 <br/> Follow the format.<br/> 
-__
-Name<br/>
-Track
-___
+OSUJI CHIAKA DANIEL<br/>
+FRONTEND DEVELOPMENT; HTML, CSS AND  JAVASCRIPT
 Name<br/>
 Track
 ___
