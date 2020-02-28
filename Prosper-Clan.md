@@ -4,8 +4,8 @@ ___
 Mayowa Oludoyi <br/>
 DevOps
 ___
-Name <br/>
-Track
+Jones Abriku <br/>
+Frontend (HTML, CSS & JS) 
 ___
 Name <br/>
 Track
