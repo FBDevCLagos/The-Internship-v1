@@ -10,5 +10,6 @@ ___
 Name <br/>
 Track
 ___
-Olamide Kehinde <br/>
-Back-end API: PHP — Laravel
+
+Adeola Ogunsanya <br/>
+Front-end Web: HTML, CSS and JS
