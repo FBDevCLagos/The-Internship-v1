@@ -1,9 +1,11 @@
 Kindly add your name to this file as an attestion to abide by the Clan Guidelines and the Terms of The Internship v1
 <br/> Follow the format.<br/> 
 ___
-Name <br/>
+Name 
+_Chukwurah Emmanuel_<br/>
 Track
-___
+_Backend (Nodejs and Express)_
+<br/>
 Name <br/>
 Track
 ___
