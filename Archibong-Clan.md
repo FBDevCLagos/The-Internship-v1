@@ -4,6 +4,9 @@ ___
 Name: Kingsley Victor <br/>
 Track: Back-End (Node & ExpressJs)
 ___
+Name: Francis Michael Franel <br/>
+Track: Front-End (HTML, CSS, Bootstrap, & VanillaJS)
+___
 Name <br/>
 Track
 ___
