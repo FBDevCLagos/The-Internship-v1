@@ -2,7 +2,7 @@ Kindly add your name to this file as an attestion to abide by the Clan Guideline
 <br/> Follow the format.<br/> 
 ___
 Name: Adekunle Adeniyi <br/>
-Track: Font End Developer(HTML,CSS,JS)
+Track: Font End Developer(HTML, CSS, JS)
 ___
 Name <br/>
 Track
