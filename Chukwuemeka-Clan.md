@@ -10,5 +10,7 @@ ___
 Name <br/>
 Track
 ___
-Olamide Kehinde <br/>
-Back-end API: PHP — Laravel
+
+Anyim Amarachi <br/>
+Project Manager 
+
