@@ -4,8 +4,8 @@ ___
 Mayowa Oludoyi <br/>
 DevOps
 ___
-Name <br/>
-Track
+Gabrielle Kurah <br/>
+Frontend Web: HTML, CSS & JS	
 ___
 Name <br/>
 Track
