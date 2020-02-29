@@ -4,8 +4,9 @@ ___
 Mayowa Oludoyi <br/>
 DevOps
 ___
-Name <br/>
-Track
+Jeremiah Udoh <br/>
+Front-end Web: HTML, CSS and JS.
+
 ___
 Name <br/>
 Track
