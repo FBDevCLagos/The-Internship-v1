@@ -10,5 +10,6 @@ ___
 Name <br/>
 Track
 ___
-Olamide Kehinde <br/>
-Back-end API: PHP — Laravel
+Olowolafe Modupe <br/>
+Front-end Web: ReactJs
+
