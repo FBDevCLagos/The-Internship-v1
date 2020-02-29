@@ -2,7 +2,7 @@ Kindly add your name to this file as an attestion to abide by the Clan Guideline
 <br/> Follow the format.<br/>
 ___
 Oteri Eyenike <br />
-Front-end Web: ReactJS
+Front-end Web: React
 ___
 Name <br/>
 Track
