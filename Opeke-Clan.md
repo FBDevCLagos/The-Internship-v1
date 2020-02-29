@@ -4,9 +4,6 @@ ___
 <<<<<<< HEAD
 Mudathir Lawal <br/>
 Back-end API: NodeJS — ExpressJS
-___
-Name <br/>
-Track
 =======
 AbdulQudus Adebogun <br/>
 Front-end Mobile: React Native
