@@ -4,8 +4,8 @@ ___
 Mayowa Oludoyi <br/>
 DevOps
 ___
-Name <br/>
-Track
+Ibute Chinyelu <br/>
+Frontend Web: ReactJS
 ___
 Name <br/>
 Track
