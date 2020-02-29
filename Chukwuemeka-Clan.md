@@ -10,5 +10,5 @@ ___
 Name <br/>
 Track
 ___
-Olamide Kehinde <br/>
-Back-end API: PHP — Laravel
+Akinsuroju Michael <br/>
+Back-end API: PHP/Laravel
