@@ -9,3 +9,10 @@ Track: Front-end Web: HTML, CSS and JS
 ___
 Name: Abai Daniel Adewunmi <br/>
 Track: Front-end Web: HTML, CSS and JS
+___
+Name: Onyinyechi Queendalin Nduka <br/>
+Track: Frontend (HTML, CSS & JavaScript)
+
+
+
+ 
