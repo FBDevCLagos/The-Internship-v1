@@ -4,8 +4,8 @@ ___
 Name: Franklin Okolie <br/>
 Track: Front-end Web:ReactJs
 ___
-Name: Abai Daniel Adewunmi  <br/>
-Track: Front-end Web: HTML, CSS and JS
+Name: Emmanuel Udoh <br/>
+Track: Front-end Web (HTML, CSS and JS)
 ___
 Name: Abai Daniel Adewunmi <br/>
 Track: Front-end Web: HTML, CSS and JS
