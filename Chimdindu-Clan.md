@@ -2,7 +2,7 @@ Kindly add your name to this file as an attestion to abide by the Clan Guideline
 <br/> Follow the format.<br/> 
 ___
 Ogundare Samuel <br/>
-Front End: ReactJs
+ReactJs
 ___
 Name <br/>
 Track
