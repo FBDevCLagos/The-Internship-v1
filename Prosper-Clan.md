@@ -4,6 +4,9 @@ ___
 Mayowa Oludoyi <br/>
 DevOps
 ___
+Adejoro Samson <br/>
+Back-end API: PHP—Laravel
+
 Name <br/>
 Track
 ___
