@@ -4,7 +4,7 @@ ___
 <<<<<<< HEAD
 Mudathir Lawal <br/>
 Back-end API: NodeJS — ExpressJS
-=======
+___
 AbdulQudus Adebogun <br/>
 Front-end Mobile: React Native
 >>>>>>> origin/opeke
