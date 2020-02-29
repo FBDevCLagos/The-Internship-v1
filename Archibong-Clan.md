@@ -9,3 +9,7 @@ Track: Front-end Web: HTML, CSS and JS
 ___
 Name: Abai Daniel Adewunmi <br/>
 Track: Front-end Web: HTML, CSS and JS
+
+___
+Name: Bethel-Gold <br/>
+Track: Front End Mobile: React Native-iOS
