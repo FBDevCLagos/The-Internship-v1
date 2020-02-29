@@ -9,9 +9,3 @@ Track
 ___
 Name <br/>
 Track
----
-Emmanuel Aboderin </br>
-Dev Ops
----
-Michael James </br>
-HTML, Javascript and CSS
