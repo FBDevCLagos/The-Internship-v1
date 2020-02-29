@@ -1,5 +1,8 @@
 Kindly add your name to this file as an attestion to abide by the Clan Guidelines and the Terms of The Internship v1
 <br/> Follow the format.<br/> 
+__
+Name Chukwudalu Ayika <br />
+Track Frontend(React.js)
 ___
 Name <br/>
 Track
@@ -21,3 +24,4 @@ Track
 [Aboyeji Clan](Aboyeji-Clan.md)<br/>
 [Adeniyi-Kale Clan](Adeniyi-Kale-Clan.md) <br/>
 [Ada Oyom Clan](Chukwuemeka-Clan.md) <br/>
+[Chukwudalu CLan](Aniedi-Clan.md) <br />
