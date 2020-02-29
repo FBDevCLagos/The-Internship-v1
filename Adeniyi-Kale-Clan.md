@@ -3,7 +3,7 @@ Kindly add your name to this file as an attestion to abide by the Clan Guideline
 <br/> Follow the format.<br/> 
 ___
 Oladipupo Aishat Abidemi <br/>
-front end(html,css,javascript)
+front end(  Html,Css,Javascript)
 ___
 Name <br/>
 Track
