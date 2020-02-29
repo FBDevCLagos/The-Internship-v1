@@ -4,8 +4,8 @@ ___
 AbdulQudus Adebogun <br/>
 Front-end Mobile: React Native
 ___
-Name <br/>
-Track
+Otutu Qudus Abolore
+Front-end Web: HTML, CSS and JS
 ___
 Name <br/>
 Track
