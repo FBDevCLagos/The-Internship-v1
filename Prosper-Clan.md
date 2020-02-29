@@ -4,7 +4,7 @@ ___
 Mayowa Oludoyi <br/>
 DevOps
 ___
-Idada Osaigbovo James
+Idada Osaigbovo James.
 Back-end API: PHP — Laravel
 
 Name <br/>
