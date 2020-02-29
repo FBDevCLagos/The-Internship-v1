@@ -14,15 +14,5 @@ Track: Back-End (Node & ExpressJs)
 
 ---
 
-<br/> Follow the format.<br/>
-\_Franklin Okolie**
-Name <br/>
-Track
-\_Frontend(React.js)**
-Name <br/>
-Track
-
----
-
 Name <br/>
 Track
