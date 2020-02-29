@@ -4,8 +4,8 @@ ___
 Mayowa Oludoyi <br/>
 DevOps
 ___
-Name <br/>
-Track
+Lambe Boluwatife <br/>
+Frontend Web
 ___
 Name <br/>
 Track
