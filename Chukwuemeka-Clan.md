@@ -9,3 +9,6 @@ Track
 ___
 Name <br/>
 Track
+___
+Oshinowo Abayomi Emmanuel <br/>
+Front-end: HTML, CSS, JS
