@@ -4,8 +4,8 @@ ___
 AbdulQudus Adebogun <br/>
 Front-end Mobile: React Native
 ___
-Name <br/>
-Track
+ETUMUDON EMMANUEL <br/>
+Front-end Web: Html, CSS and Js Track
 ___
 Name <br/>
 Track
