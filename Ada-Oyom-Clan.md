@@ -10,3 +10,5 @@ Track
 ___
 Name <br/>
 Track
+Ibolo eterigho <br/>
+Front-end Web: HTML, CSS, JS
