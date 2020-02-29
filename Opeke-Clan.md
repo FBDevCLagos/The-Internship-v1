@@ -5,7 +5,7 @@ AbdulQudus Adebogun <br/>
 Front-end Mobile: React Native
 ___
 Olusola Samuel Oluwatobi <br/>
-Back-end Web: Node.js
+Back-end API: NodeJS — ExpressJS
 ___
 Name <br/>
 Track
