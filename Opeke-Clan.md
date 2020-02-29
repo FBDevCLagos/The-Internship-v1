@@ -1,11 +1,11 @@
-Kindly add your name to this file as an attestion to abide by the Clan Guidelines and the Terms of The Internship v1
+ttestion to abide by the Clan Guidelines and the Terms of The Internship v1
 <br/> Follow the format.<br/> 
 ___
-Kehinde Alimi <br/>
-Backend Engineer: Nodejs
+AbdulQudus Adebogun <br/>
+Front-end Mobile: React Native
 ___
-Name <br/>
-Track
+Kehinde Alimi <br/>
+Backend API: NodeJs - Express
 ___
 Name <br/>
 Track
