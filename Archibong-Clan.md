@@ -4,8 +4,8 @@ ___
 Name: Kingsley Victor <br/>
 Track: Back-End (Node & ExpressJs)
 ___
-Name <br/>
-Track
+Name: Taofeek Aderoju <br/>
+Track: Frontend Web ( HTML, CSS, Js)
 ___
 Name <br/>
 Track
