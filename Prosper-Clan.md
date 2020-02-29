@@ -4,8 +4,8 @@ ___
 Mayowa Oludoyi <br/>
 DevOps
 ___
-Name <br/>
-Track
+Damilola Orunsholu <br/>
+Project Manager
 ___
 Name <br/>
 Track
