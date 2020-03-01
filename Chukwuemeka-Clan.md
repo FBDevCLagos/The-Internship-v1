@@ -7,8 +7,8 @@ ___
 Name <br/>
 Track
 ___
-Name <br/>
-Track
+Anthony Akpan<br/>
+Frontend (html,css,js)
 ___
 Olamide Kehinde <br/>
 Back-end API: PHP — Laravel
