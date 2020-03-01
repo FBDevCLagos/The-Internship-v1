@@ -7,8 +7,11 @@ ___
 Name <br/>
 Track
 ___
-Chukwurah Emmanuel<br/>
-Backend (Nodejs express)
+Name <br/>
+Track
 ---
 Emmanuel Aboderin </br>
 Dev Ops
+---
+Chukwurah Emmanuel <br/>
+Backend (NodeJS/Express)
