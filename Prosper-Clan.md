@@ -4,8 +4,8 @@ ___
 Mayowa Oludoyi <br/>
 DevOps
 ___
-Name <br/>
-Track
+Orisabinone Toluwalase <br/>
+Front end web developer (HTML, CSS, JavaScript)
 ___
 Name <br/>
 Track
