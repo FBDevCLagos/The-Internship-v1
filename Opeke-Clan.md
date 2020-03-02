@@ -4,8 +4,8 @@ ___
 AbdulQudus Adebogun <br/>
 Front-end Mobile: React Native
 ___
-Name <br/>
-Track
+Ikechukwu Okoro <br/>
+DevOps
 ___
 Name <br/>
 Track
