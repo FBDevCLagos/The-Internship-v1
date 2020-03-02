@@ -1,6 +1,6 @@
 ## README!
 
-"Person when follow Instructions, no fit lost!"
+"Person wey follow instructions, no fit lost!"
 
 If you are reading this, you have successfully joined a clan!
 
