@@ -4,8 +4,5 @@ ___
 AbdulQudus Adebogun <br/>
 Front-end Mobile: React Native
 ___
-Name <br/>
-Track
-___
-Name <br/>
-Track
+Azeez Lukman Omoyemi <br/>
+Front-end Web: ReactJS
