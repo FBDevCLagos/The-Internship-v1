@@ -12,7 +12,7 @@ Track
 ___
 
 Adesina Oluwatoyin Emmanuel <br/>
-Front-end (React Js)
+Front-end (ReactJs)
 ___
 Olamide Kehinde <br/>
 Back-end API: PHP — Laravel
