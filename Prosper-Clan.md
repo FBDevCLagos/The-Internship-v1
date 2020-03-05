@@ -5,7 +5,7 @@ Mayowa Oludoyi <br/>
 DevOps
 ___
 Israel Asuelimen Efe <br/>
-Frontend Html, css, javascript
+Frontend (Html, css, javascript)
 ___
 Name <br/>
 Track
