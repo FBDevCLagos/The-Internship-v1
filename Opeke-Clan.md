@@ -9,3 +9,6 @@ Track
 ___
 Name <br/>
 Track
+___
+Isaac Avoseh<br/>
+Frontend: HTML CSS and JavaScript
