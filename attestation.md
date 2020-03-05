@@ -1,15 +1,16 @@
 Kindly add your name to this file as an attestion to abide by the Clan Guidelines and the Terms of The Internship v1
 <br/> Follow the format.<br/> 
 ___
-Name <br/>
-Track
-___
-Name <br/>
-Track
-___
-Name <br/>
-Track
+ Samuel Ekele 
+ Nams<br/>
 
+___
+Name <br/>
+Track
+__Front end (ReactJs)_
+Name <br/>
+Track
+[Samuel Ekele] (Archibong-Clan.md)<br/>
 ## Link to Clan Attestations
 [Archibong Clan](Archibong-Clan.md) <br/>
 [Chukwuemeka Clan](Chukwuemeka-Clan.md) <br/>
