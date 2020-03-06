@@ -10,5 +10,5 @@ ___
 Name <br/>
 Track
 ___
-Yusuf Olawale <br/>
-Frontend(React Js)
+Yusuf Olawale<br/>
+Frontend (React Js)
