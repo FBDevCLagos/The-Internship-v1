@@ -4,8 +4,8 @@ ___
 Mayowa Oludoyi <br/>
 DevOps
 ___
-Name <br/>
-Track
+Israel Asuelimen Efe <br/>
+Frontend (Html, css, javascript)
 ___
 Name <br/>
 Track
