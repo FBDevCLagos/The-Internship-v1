@@ -9,3 +9,10 @@ Track
 ___
 Name <br/>
 Track
+___
+Olamide Kehinde <br/>
+Back-end API: PHP — Laravel
+
+___
+Mustapha Moshood OLawale <br/>
+Frontend Web: HTML, CSS & JS
