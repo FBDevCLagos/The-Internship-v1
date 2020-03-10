@@ -7,6 +7,10 @@ ___
 Israel Asuelimen Efe <br/>
 Frontend (Html, css, javascript)
 ___
+Fatimah Davies <br/>
+Frontend (Html, css, Javascript)
+
+___
 Name <br/>
 Track
 
