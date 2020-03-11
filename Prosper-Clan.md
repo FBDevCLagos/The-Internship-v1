@@ -13,3 +13,7 @@ Track
 ___
 Suulola Oluwaseyi <br/>
 Front End React Native iOs
+
+___
+Adebayo Oladapo <br/>
+Frontend (Html, css, javascript)
