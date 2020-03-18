@@ -11,3 +11,5 @@ res.send("Fashion square");
 });
 
 app.listen(PORT,()=>console.log(`Server running in ${PORT}`));
+
+module.exports = app;
