@@ -7,8 +7,8 @@ ___
 Israel Asuelimen Efe <br/>
 Frontend (Html, css, javascript)
 ___
-Name <br/>
-Track
+Adedokun Oluwaferanmi <br/>
+Frontend (HTML, CSS & Javascript).
 
 ___
 Suulola Oluwaseyi <br/>
