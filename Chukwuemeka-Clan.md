@@ -9,3 +9,11 @@ Track
 ___
 Name <br/>
 Track
+___
+
+Adesina Oluwatoyin Emmanuel <br/>
+Front-end (ReactJs)
+___
+Olamide Kehinde <br/>
+Back-end API: PHP — Laravel
+
