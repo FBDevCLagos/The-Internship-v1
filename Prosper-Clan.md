@@ -4,9 +4,9 @@ ___
 Oloko Babajide  <br/>
 UI/UX design
 ___
-Israel Asuelimen Efe <br/>
-Frontend (Html, css, javascript)
-___
+Idada Osaigbovo James.
+Back-end API: PHP — Laravel
+
 Name <br/>
 Track
 
